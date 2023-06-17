@@ -26,4 +26,4 @@ USE `Movie Profitability`;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2023-06-08 20:16:57
+-- Dump completed on 2023-06-17 18:58:09
